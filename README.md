@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Plash Upreti's Spotify Playing" width="350" />](https://open.spotify.com/artist/6IwGxmgNbuIY4abVu6F3PH?si=68cLot65QdmDfjt1d8xo1g)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Plash Upreti's Spotify Playing" width="350" />](https://open.spotify.com/track/5EVKJyqSQVgwOOjg3ZtGk1?si=HJYgRco4Qc6v3Q0uN9iGXw)
 
 ### Connect with me:
 
